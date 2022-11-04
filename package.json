@@ -1,0 +1,22 @@
+{
+  "name": "showmyname-yy",
+  "version": "1.0.0",
+  "description": "san kyi tar par",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khinkyaw1011/showMyName.git"
+  },
+  "keywords": [
+    "showmyname"
+  ],
+  "author": "mama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khinkyaw1011/showMyName/issues"
+  },
+  "homepage": "https://github.com/khinkyaw1011/showMyName#readme"
+}
